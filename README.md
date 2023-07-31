@@ -4,7 +4,8 @@ O projeto se trata de uma solução paar predição de preços de carros conform
 O modelo foi analisado e construído no Jupyter Notebook analise.ipynb e explicado em relatório junto ao mesmo.
 A base de treinamento se trata do arquivo cars_train.csv cujo modelo foi aplicado em cars_test.csv tendo como resultado os valores em predicted.csv.
 
-Todo o projeto foi executado em um ambienta Anaconta junto das seguintes bibliotecas:
+# Ambiente
+Todo o projeto foi executado em um ambienta Anaconda(2.4.2) junto das seguintes bibliotecas:
 pandas 1.5.3
 seaborn 0.9.0
 sklearn 2.6.1
