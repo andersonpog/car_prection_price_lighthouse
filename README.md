@@ -9,9 +9,16 @@ A base de treinamento se trata do arquivo cars_train.csv cujo modelo foi aplicad
 Todo o projeto foi executado em um ambienta Anaconda(2.4.2) junto das seguintes bibliotecas:
 
 pandas 1.5.3
+
 seaborn 0.9.0
+
 sklearn 2.6.1
+
 scikit-learn 1.2.2
+
 xgboost 1.7.3
+
 catboost 1.2
+
 lightgbm  3.3.5
+
