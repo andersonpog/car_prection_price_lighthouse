@@ -6,7 +6,7 @@ O modelo foi analisado e construído no Jupyter Notebook analise.ipynb e explica
 A base de treinamento se trata do arquivo cars_train.csv cujo modelo foi aplicado em cars_test.csv tendo como resultado os valores em predicted.csv.
 
 # Ambiente
-Todo o projeto foi executado em um ambienta Anaconda(2.4.2) junto das seguintes bibliotecas:
+Todo o projeto foi executado em um ambiente Anaconda(2.4.2) junto das seguintes bibliotecas:
 
 pandas 1.5.3
 
